@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, wellcome to my Git profile 👋
+- 🔭 I’m Son - A gentle and kind person 😄
+- 🌱 I’m currently working on C# at FPT Software HCMC.
 
 <!--
 **sonle0311/sonle0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
